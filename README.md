@@ -1,6 +1,6 @@
 # Ramesh Netheti — Portfolio
 
-A responsive single-page developer portfolio inspired by the reference video. Built with plain HTML, CSS, and JavaScript so it is easy to edit and deploy.
+A responsive single-page developer portfolio. Built with plain HTML, CSS, and JavaScript so it is easy to edit and deploy.
 
 ## Run locally
 1. Extract the folder.
